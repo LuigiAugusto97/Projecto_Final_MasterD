@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40f7e05d7b84e1d4ba4265864921a44a, type: 3}
+  m_Name: Dragon Outrage
+  m_EditorClassIdentifier: 
+  _name: Outrage
+  description: 
+  type: 13
+  movecategory: 1
+  movedescription: 1
+  effects:
+    boosts:
+    - stat: 0
+      boost: 2
+    status: 0
+    volatilestatus: 0
+  secondaryEffects:
+  - boosts: []
+    status: 2
+    volatilestatus: 0
+    chance: 75
+    target: 0
+  target: 0
+  power: 0
+  accuracy: 100
+  alwaysHit: 0
+  resourceCost: 60
+  moveSound: {fileID: 0}

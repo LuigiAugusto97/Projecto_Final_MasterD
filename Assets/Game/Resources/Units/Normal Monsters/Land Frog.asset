@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Land Frog
+  m_EditorClassIdentifier: 
+  _name: Land Frog
+  _uniqueIdentifier: Monster_42
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -5546201363941085993, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 11
+  type2: 0
+  maxHP: 714
+  maxMana: 13
+  strenght: 294
+  defence: 6
+  magic: 656
+  magicDef: 50
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 265
+  moneyYield: 125
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: b9fd523b4d32cca4a8473cfba65c084d, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 9520be34039100e47b375369718c556b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 95608d6ec312ff34e83cc2c18a2d77d0, type: 2}
+    level: 0

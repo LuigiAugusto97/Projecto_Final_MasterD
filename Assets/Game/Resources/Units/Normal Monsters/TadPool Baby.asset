@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: TadPool Baby
+  m_EditorClassIdentifier: 
+  _name: 'Tadpool '
+  _uniqueIdentifier: Monster_30
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 2580697954514063400, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 3
+  type2: 0
+  maxHP: 254
+  maxMana: 57
+  strenght: 212
+  defence: 18
+  magic: 431
+  magicDef: 41
+  manaregen: 0
+  psnResist: 0
+  brnResist: 35
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 16
+  expYield: 180
+  moneyYield: 50
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: e9f638f76cec30f44832b918ee13806b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7bad8ce7f2b98d34f9149080ffe1ed25, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4e4e9e4dfbda80341993b15610fcf4fb, type: 2}
+    level: 0

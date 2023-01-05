@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Boss 1 Death Big Walrush
+  m_EditorClassIdentifier: 
+  _name: King of the Sea
+  _uniqueIdentifier: Monster_114
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -7219758704927297680, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 1
+  type1: 3
+  type2: 0
+  maxHP: 936
+  maxMana: 137
+  strenght: 626
+  defence: 136
+  magic: 442
+  magicDef: 58
+  manaregen: 25
+  psnResist: 0
+  brnResist: 47
+  slpResist: 41
+  parResist: 0
+  frzResist: 9
+  confusionResist: 43
+  expYield: 525
+  moneyYield: 423
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 9520be34039100e47b375369718c556b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7b5d4872b1fca5242b1fe8c91f92d20f, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: ff2d75b4f5f4f2c48b8dcdf6939e58e2, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 17beb5a68ca88524ca499e14ea8111de, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: e102dd7c70654f544b846ae7cd3d58f5, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4b231bd2b6004db47942abb3e6976018, type: 2}
+    level: 0

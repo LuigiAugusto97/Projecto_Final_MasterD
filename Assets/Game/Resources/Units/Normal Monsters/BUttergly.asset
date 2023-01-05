@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: BUttergly
+  m_EditorClassIdentifier: 
+  _name: Berbelatium
+  _uniqueIdentifier: Monster_60
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 932064501379760142, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 10
+  type2: 4
+  maxHP: 385
+  maxMana: 23
+  strenght: 346
+  defence: 17
+  magic: 842
+  magicDef: 31
+  manaregen: 0
+  psnResist: 0
+  brnResist: -31
+  slpResist: 100
+  parResist: 20
+  frzResist: -32
+  confusionResist: 11
+  expYield: 205
+  moneyYield: 103
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 363e97161a3586848b63643483b623c4, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 79c6feefe1cd06b49b0dc7d894a8a61a, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 5c3e5dca4f6fbcd4b9dac193b9906bd6, type: 2}
+    level: 0

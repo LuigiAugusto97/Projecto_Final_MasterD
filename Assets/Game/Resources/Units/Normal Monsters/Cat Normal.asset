@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Cat Normal
+  m_EditorClassIdentifier: 
+  _name: KittyKat
+  _uniqueIdentifier: Monster_55
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -1425084844843619268, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 1
+  type2: 0
+  maxHP: 610
+  maxMana: 0
+  strenght: 536
+  defence: 32
+  magic: 426
+  magicDef: 35
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 200
+  moneyYield: 124
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 197d888ec1aeba74ab56587368c53c45, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 6c7a95749db45744a835079d4175aa3b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: b2b0344ffa21f7646ad03d90d8a15cc7, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0

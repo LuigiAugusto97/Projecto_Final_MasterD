@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Cat Fire
+  m_EditorClassIdentifier: 
+  _name: Fiery KittyKat
+  _uniqueIdentifier: Monster_70
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 219755970437336216, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 2
+  type2: 0
+  maxHP: 645
+  maxMana: 0
+  strenght: 656
+  defence: 11
+  magic: 642
+  magicDef: 12
+  manaregen: 0
+  psnResist: 0
+  brnResist: 100
+  slpResist: 0
+  parResist: 0
+  frzResist: -27
+  confusionResist: 28
+  expYield: 240
+  moneyYield: 140
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 6c7a95749db45744a835079d4175aa3b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f3969b5a6bf498b468e12a5eb8657c95, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7259dd4b2a9209443b73bf3498b889a3, type: 2}
+    level: 0

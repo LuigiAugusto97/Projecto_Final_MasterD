@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Pinguim Mega
+  m_EditorClassIdentifier: 
+  _name: Boss Pinguin
+  _uniqueIdentifier: Monster_125
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -36525214871471410, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 1
+  type1: 6
+  type2: 7
+  maxHP: 752
+  maxMana: 0
+  strenght: 595
+  defence: 92
+  magic: 411
+  magicDef: 23
+  manaregen: 0
+  psnResist: 79
+  brnResist: 29
+  slpResist: -44
+  parResist: -55
+  frzResist: 100
+  confusionResist: 0
+  expYield: 410
+  moneyYield: 225
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 63db66166daaf8d4f97c64728a9cbf4e, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: cc63119cfe95fee41b47a560de2493e9, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 96a9a7e88b0790742aba2f881b4770e7, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f3035310ca14c8b40be5257173c1ac4b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 9520be34039100e47b375369718c556b, type: 2}
+    level: 0

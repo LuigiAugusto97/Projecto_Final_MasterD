@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Priest
+  m_EditorClassIdentifier: 
+  _name: Brunarium
+  _uniqueIdentifier: playerChar2
+  isboss: 0
+  alignment: 0
+  description: 
+  unit_sprite: {fileID: 21300000, guid: 91623c0064ade584495df51887a5bcac, type: 3}
+  isBig: 0
+  type1: 1
+  type2: 11
+  maxHP: 418
+  maxMana: 802
+  strenght: 305
+  defence: 24
+  magic: 887
+  magicDef: 95
+  manaregen: 21
+  psnResist: 5
+  brnResist: 12
+  slpResist: -13
+  parResist: 5
+  frzResist: 15
+  confusionResist: 77
+  expYield: 0
+  moneyYield: 0
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: bff466d83110a4942a0365765fbda164, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: d2ede247c7fb72b4b960c60b727cca66, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 125678694dea68f4abe75c797cb750f8, type: 2}
+    level: 4
+  - attmovBase: {fileID: 11400000, guid: 1eaa3ada16fbba642bf58fe502550105, type: 2}
+    level: 8
+  - attmovBase: {fileID: 11400000, guid: b9fd523b4d32cca4a8473cfba65c084d, type: 2}
+    level: 11
+  - attmovBase: {fileID: 11400000, guid: 35c319618b645b345a139ad456da9334, type: 2}
+    level: 15
+  - attmovBase: {fileID: 11400000, guid: 5e44eaacf347bb2419202b54aaa99a71, type: 2}
+    level: 19
+  - attmovBase: {fileID: 11400000, guid: 098edbdf5cdc01e4db226a1c4ca6a477, type: 2}
+    level: 23
+  - attmovBase: {fileID: 11400000, guid: 5868be4915c9da4468d27ba09bdd67a9, type: 2}
+    level: 27
+  - attmovBase: {fileID: 11400000, guid: 5928c863ad60d1e4ba81644406c0fa1a, type: 2}
+    level: 30
+  - attmovBase: {fileID: 11400000, guid: 61e9b3a6fd406014d9a9c270526dcf14, type: 2}
+    level: 32
+  - attmovBase: {fileID: 11400000, guid: a888de355e251cf4b949a34b266f7ffe, type: 2}
+    level: 35
+  - attmovBase: {fileID: 11400000, guid: d42e0bdc7910d0e45b9e8f3083db2a49, type: 2}
+    level: 37
+  - attmovBase: {fileID: 11400000, guid: 6797694df43dfbd418d1abc27f673698, type: 2}
+    level: 41
+  - attmovBase: {fileID: 11400000, guid: 17b6b569991e9624f959d2054c8b69f5, type: 2}
+    level: 45

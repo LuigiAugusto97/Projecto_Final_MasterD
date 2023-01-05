@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5416de82f218fd3499b001b35f5f2673, type: 3}
+  m_Name: Give lover Corage
+  m_EditorClassIdentifier: 
+  questName: Give lover corage
+  description: 
+  startDialog:
+    lines:
+    - I like this girl so much but I just don't know how to say it to her,
+    - I always get so shy and nervous when she is around...
+    - If only I could gather the courage!
+  inProgressDialog:
+    lines:
+    - I wrote a love letter and everything,
+    - And I'm not that type of person.
+    - Cmon just do it, just hand it to her!
+  finishDialog:
+    lines:
+    - Oh thanks!!!
+    - That's a great idea!
+    - Maybe now i will get the courage to tell her how i really feel!
+    - Have this as a thanks.
+  requiredItem: {fileID: 11400000, guid: b21113e489d00fd4ba36dc781c82dced, type: 2}
+  requiredItemCount: 1
+  rewardItem: {fileID: 11400000, guid: fdff96b99e8139c418342d22293a7134, type: 2}
+  rewardItemCount: 1
+  rewardMoney: 0

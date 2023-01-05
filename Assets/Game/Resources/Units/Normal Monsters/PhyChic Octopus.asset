@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: PhyChic Octopus
+  m_EditorClassIdentifier: 
+  _name: Phychic Octopus
+  _uniqueIdentifier: Monster_27
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -534992481189267106, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 11
+  type2: 3
+  maxHP: 424
+  maxMana: 28
+  strenght: 349
+  defence: 38
+  magic: 874
+  magicDef: 111
+  manaregen: 15
+  psnResist: 0
+  brnResist: 0
+  slpResist: 56
+  parResist: 0
+  frzResist: 0
+  confusionResist: 100
+  expYield: 280
+  moneyYield: 150
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 61e9b3a6fd406014d9a9c270526dcf14, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 95608d6ec312ff34e83cc2c18a2d77d0, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4f46db7b304449a4fa53e1c1e36bce83, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: e9f638f76cec30f44832b918ee13806b, type: 2}
+    level: 0

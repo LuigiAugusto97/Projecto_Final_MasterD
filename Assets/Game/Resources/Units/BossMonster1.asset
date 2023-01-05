@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: BossMonster1
+  m_EditorClassIdentifier: 
+  _name: The Filghty One
+  _uniqueIdentifier: BossTest
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -2632193771602601575, guid: 681c0f74101caca4f99a4dcaf9d7f09e, type: 3}
+  isBig: 1
+  type1: 8
+  type2: 9
+  maxHP: 1094
+  maxMana: 1
+  strenght: 812
+  defence: 122
+  magic: 758
+  magicDef: 113
+  manaregen: 3698
+  psnResist: 100
+  brnResist: -11
+  slpResist: 51
+  parResist: 5
+  frzResist: -27
+  confusionResist: 0
+  expYield: 800
+  moneyYield: 250
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: c31e726c87f2765428b1ec448670c8d9, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 9cf8d70d8a1ddf04386aa8f51ac12989, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 71330d405be8df34eb1559e7a54c2187, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 96a9a7e88b0790742aba2f881b4770e7, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4ab2c95a6073c4442862c28907744a78, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f857f759963724b45b2a1eaa44ba265f, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 8cbf8443f04921544b763daee3df3751, type: 2}
+    level: 0

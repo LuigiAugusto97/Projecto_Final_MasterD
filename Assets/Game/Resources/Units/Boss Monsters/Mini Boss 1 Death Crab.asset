@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Mini Boss 1 Death Crab
+  m_EditorClassIdentifier: 
+  _name: Faceless Crab
+  _uniqueIdentifier: Monster_15
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 8615779821244086437, guid: 681c0f74101caca4f99a4dcaf9d7f09e, type: 3}
+  isBig: 1
+  type1: 3
+  type2: 14
+  maxHP: 798
+  maxMana: 137
+  strenght: 605
+  defence: 101
+  magic: 442
+  magicDef: 25
+  manaregen: 25
+  psnResist: 0
+  brnResist: 0
+  slpResist: 41
+  parResist: 0
+  frzResist: -14
+  confusionResist: 54
+  expYield: 600
+  moneyYield: 350
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 01e90ab12dc436440971f27a560b2c6c, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 012c6506d449f6d46b1129c32e6a3cbc, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: ff2d75b4f5f4f2c48b8dcdf6939e58e2, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 5ff95d252a8ec994fb0fd4488b6f6e56, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 6a3147b836255864e9dff3ed19246571, type: 2}
+    level: 0

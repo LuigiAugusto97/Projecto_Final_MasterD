@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Baby Dragon
+  m_EditorClassIdentifier: 
+  _name: Baby Dragon
+  _uniqueIdentifier: Monster_13
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 8563587851878821166, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 13
+  type2: 0
+  maxHP: 628
+  maxMana: 155
+  strenght: 558
+  defence: 73
+  magic: 603
+  magicDef: 78
+  manaregen: 0
+  psnResist: 23
+  brnResist: 90
+  slpResist: 32
+  parResist: 0
+  frzResist: 0
+  confusionResist: -21
+  expYield: 275
+  moneyYield: 200
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 01e90ab12dc436440971f27a560b2c6c, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 79c6feefe1cd06b49b0dc7d894a8a61a, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f3969b5a6bf498b468e12a5eb8657c95, type: 2}
+    level: 10
+  - attmovBase: {fileID: 11400000, guid: 1880aa38dc219824abd022474d0462a4, type: 2}
+    level: 10
+  - attmovBase: {fileID: 11400000, guid: 31932c9756421f34ea5ca0ed8cb2128f, type: 2}
+    level: 15

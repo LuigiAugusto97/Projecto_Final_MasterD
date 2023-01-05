@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Cat Eletric
+  m_EditorClassIdentifier: 
+  _name: Flashy KittyKat
+  _uniqueIdentifier: Monster_69
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 1909748247761712438, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 5
+  type2: 0
+  maxHP: 474
+  maxMana: 0
+  strenght: 620
+  defence: 37
+  magic: 501
+  magicDef: 35
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 100
+  frzResist: 0
+  confusionResist: 32
+  expYield: 240
+  moneyYield: 140
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 6c7a95749db45744a835079d4175aa3b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: dca320f326f1b304398a4173e8b27c3b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: d7dded1851cef8a47a3c54eb18c96fe6, type: 2}
+    level: 0

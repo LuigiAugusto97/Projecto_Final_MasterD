@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: DarkPriest
+  m_EditorClassIdentifier: 
+  _name: Vastum
+  _uniqueIdentifier: necro
+  isboss: 0
+  alignment: 0
+  description: 
+  unit_sprite: {fileID: 21300000, guid: c34d7db2e20d3074f9ae3b5185a7b45a, type: 3}
+  isBig: 0
+  type1: 14
+  type2: 8
+  maxHP: 359
+  maxMana: 1006
+  strenght: 541
+  defence: 18
+  magic: 1155
+  magicDef: 36
+  manaregen: 10
+  psnResist: 89
+  brnResist: -12
+  slpResist: 49
+  parResist: -15
+  frzResist: -10
+  confusionResist: 79
+  expYield: 0
+  moneyYield: 0
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: bff466d83110a4942a0365765fbda164, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7ab0bf0c94cbced4f95dfbd7431a773f, type: 2}
+    level: 5
+  - attmovBase: {fileID: 11400000, guid: d17b44da4e7ec3b42b02b8bae6e6ccc3, type: 2}
+    level: 5
+  - attmovBase: {fileID: 11400000, guid: 86f6b10dad7bab3458e0c29ac20774bb, type: 2}
+    level: 13
+  - attmovBase: {fileID: 11400000, guid: 4b7c9060b00deb04fa8aeacfdafc9a40, type: 2}
+    level: 18
+  - attmovBase: {fileID: 11400000, guid: 34bb9aba34b3f384e99e20605db1e0e1, type: 2}
+    level: 35
+  - attmovBase: {fileID: 11400000, guid: 7ba3f66b9ba9b5844a951f7994d75fe6, type: 2}
+    level: 38
+  - attmovBase: {fileID: 11400000, guid: 7c44cae23f5ad3f46bb641c8b843add0, type: 2}
+    level: 42
+  - attmovBase: {fileID: 11400000, guid: 9af609f8ec7d961408a6bd59306d0fcc, type: 2}
+    level: 48

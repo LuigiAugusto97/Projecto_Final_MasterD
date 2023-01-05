@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5416de82f218fd3499b001b35f5f2673, type: 3}
+  m_Name: Moms Quest
+  m_EditorClassIdentifier: 
+  questName: Mom's Quest
+  description: 
+  startDialog:
+    lines:
+    - Hello my baby boy!
+    - Could you be a darling and bring me 2 small health potions?
+    - You canget them at the local shop!
+  inProgressDialog:
+    lines:
+    - If you need more money you can get it from puffs.
+    - There are some in the bushes behind our neighbors house
+  finishDialog:
+    lines:
+    - Thank you my dear child!
+    - Here take this for your jorney!
+  requiredItem: {fileID: 11400000, guid: 55eb0fb349d9c394a91c892585d2a227, type: 2}
+  requiredItemCount: 2
+  rewardItem: {fileID: 11400000, guid: fe543f2b693e52b43a9edb855d0ad3d5, type: 2}
+  rewardItemCount: 1
+  rewardMoney: 0

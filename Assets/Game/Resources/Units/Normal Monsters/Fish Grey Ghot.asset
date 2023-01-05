@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Fish Grey Ghot
+  m_EditorClassIdentifier: 
+  _name: Hanted Hangler Fish
+  _uniqueIdentifier: Monster_23
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 6109658745100962220, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 12
+  type2: 0
+  maxHP: 369
+  maxMana: 27
+  strenght: 237
+  defence: 18
+  magic: 704
+  magicDef: 78
+  manaregen: 0
+  psnResist: 66
+  brnResist: 36
+  slpResist: 78
+  parResist: 18
+  frzResist: 52
+  confusionResist: 35
+  expYield: 300
+  moneyYield: 250
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 6b2c5abfb0fee7b4e995a7912987c4c0, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7c44cae23f5ad3f46bb641c8b843add0, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 34bb9aba34b3f384e99e20605db1e0e1, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: d17b44da4e7ec3b42b02b8bae6e6ccc3, type: 2}
+    level: 0

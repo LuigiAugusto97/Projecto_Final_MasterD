@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Sand Crawler
+  m_EditorClassIdentifier: 
+  _name: Sand Crawler
+  _uniqueIdentifier: Monster_14
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -7430853849531595559, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 1
+  type2: 9
+  maxHP: 650
+  maxMana: 155
+  strenght: 409
+  defence: 101
+  magic: 364
+  magicDef: 96
+  manaregen: 0
+  psnResist: 2
+  brnResist: 19
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 165
+  moneyYield: 112
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 7bad8ce7f2b98d34f9149080ffe1ed25, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 8261d7a6ca29d4341b6201945ea9ab5e, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 5476030d70dba704492507867608e36e, type: 2}
+    level: 10
+  - attmovBase: {fileID: 11400000, guid: 875a28fdd4f96ce489087a7b5d3e5dde, type: 2}
+    level: 10

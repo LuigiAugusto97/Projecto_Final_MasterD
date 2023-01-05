@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Mini Boss Raging Tadpool
+  m_EditorClassIdentifier: 
+  _name: King Tadpool
+  _uniqueIdentifier: MOnster_31
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 4706514203645581601, guid: 681c0f74101caca4f99a4dcaf9d7f09e, type: 3}
+  isBig: 1
+  type1: 3
+  type2: 7
+  maxHP: 569
+  maxMana: 73
+  strenght: 605
+  defence: 60
+  magic: 546
+  magicDef: 67
+  manaregen: 45
+  psnResist: 0
+  brnResist: 70
+  slpResist: 57
+  parResist: 0
+  frzResist: 0
+  confusionResist: 6
+  expYield: 547
+  moneyYield: 320
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 4e4e9e4dfbda80341993b15610fcf4fb, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4b231bd2b6004db47942abb3e6976018, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7b91bb9f49746964092ebc53a52a3447, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 96a9a7e88b0790742aba2f881b4770e7, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 5ff95d252a8ec994fb0fd4488b6f6e56, type: 2}
+    level: 0

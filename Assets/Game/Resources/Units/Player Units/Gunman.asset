@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Gunman
+  m_EditorClassIdentifier: 
+  _name: Gunman
+  _uniqueIdentifier: gunman
+  isboss: 0
+  alignment: 0
+  description: 
+  unit_sprite: {fileID: 21300000, guid: 686992626a120de498ca4c9cb29b5c7f, type: 3}
+  isBig: 0
+  type1: 1
+  type2: 15
+  maxHP: 838
+  maxMana: 473
+  strenght: 868
+  defence: 89
+  magic: 223
+  magicDef: 95
+  manaregen: 6
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 0
+  moneyYield: 0
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 1e99f0b2242dfad44a6a09a4bd618e73, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 33579e89c2352b04b87a39da1be2a2fb, type: 2}
+    level: 5
+  - attmovBase: {fileID: 11400000, guid: 72a68e01140bef145a63e194deadf088, type: 2}
+    level: 9
+  - attmovBase: {fileID: 11400000, guid: 64287c02f5eb2ca448b6b30c10f5a544, type: 2}
+    level: 17
+  - attmovBase: {fileID: 11400000, guid: 49178119d3057a64295fd7edfb175a57, type: 2}
+    level: 25
+  - attmovBase: {fileID: 11400000, guid: 1db5b09c4db86ba4ba5df588b60f2862, type: 2}
+    level: 27
+  - attmovBase: {fileID: 11400000, guid: 17beb5a68ca88524ca499e14ea8111de, type: 2}
+    level: 29
+  - attmovBase: {fileID: 11400000, guid: 6139fb940323fbe4b9dae95bd9dfc3aa, type: 2}
+    level: 32
+  - attmovBase: {fileID: 11400000, guid: 5ff95d252a8ec994fb0fd4488b6f6e56, type: 2}
+    level: 35
+  - attmovBase: {fileID: 11400000, guid: 4eafa9af98f080844a21feadbea2f2ba, type: 2}
+    level: 40
+  - attmovBase: {fileID: 11400000, guid: bffa8c3a98a014248aa60f6293d9083f, type: 2}
+    level: 45

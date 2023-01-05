@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5416de82f218fd3499b001b35f5f2673, type: 3}
+  m_Name: Talked to boss
+  m_EditorClassIdentifier: 
+  questName: Talked to boss
+  description: 
+  startDialog:
+    lines:
+    - Heyy so you two are are new associates?
+    - Very nice to meet you!
+    - Here at AmazeMart we are like a family!
+    - So if you need anything just come talk to me okay?
+    - Any questions?
+    - Of course not!
+    - So I need you to go to each town neaby!
+    - And talk to the people to get me information.
+    - Information for what??
+    - Well to ocupy their towns.
+    - Peacefully of course
+    - No go explore a little bit of the town!
+    - Have some fun!
+    - Come talk to me again if you want to start.
+  inProgressDialog:
+    lines: []
+  finishDialog:
+    lines:
+    - So i need you to go to a town in the middle of the forest first
+    - They havent been very cooperative..
+    - Then after that I want you to check up on a friend of mine!
+    - He is in the snowy town and has been negotiating with the locals.
+    - And finally the there has been a prostest near our recently aquired waterfall
+    - if you could check that out that would be great
+    - if you could check that out that would be great
+    - Now go talk to my bodygard over there
+  requiredItem: {fileID: 0}
+  requiredItemCount: 1
+  rewardItem: {fileID: 0}
+  rewardItemCount: 1
+  rewardMoney: 100

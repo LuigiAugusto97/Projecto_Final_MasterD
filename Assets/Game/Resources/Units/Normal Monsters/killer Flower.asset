@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: killer Flower
+  m_EditorClassIdentifier: 
+  _name: Killer Flower
+  _uniqueIdentifier: Monster_38
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 8013748811045520493, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 4
+  type2: 8
+  maxHP: 496
+  maxMana: 16
+  strenght: 240
+  defence: 18
+  magic: 750
+  magicDef: 42
+  manaregen: 0
+  psnResist: 100
+  brnResist: -50
+  slpResist: 80
+  parResist: 80
+  frzResist: -50
+  confusionResist: 0
+  expYield: 210
+  moneyYield: 69
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 74403ff2e35428e45a38f2d966172bff, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: d2c8ab0b7aca8b04eb877a9fa4ba99c2, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 15ae51afdb604ec409a7afa03e760268, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 123a3f6d1ea340a4ba42ba5735980795, type: 2}
+    level: 0

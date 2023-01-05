@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Fish Red FIre
+  m_EditorClassIdentifier: 
+  _name: Raging Hangler Fish
+  _uniqueIdentifier: Monster_22
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -8330613937328587152, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 2
+  type2: 3
+  maxHP: 661
+  maxMana: 27
+  strenght: 702
+  defence: 19
+  magic: 147
+  magicDef: 5
+  manaregen: 0
+  psnResist: 0
+  brnResist: 100
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 35
+  expYield: 235
+  moneyYield: 140
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 9520be34039100e47b375369718c556b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7259dd4b2a9209443b73bf3498b889a3, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f3969b5a6bf498b468e12a5eb8657c95, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7e29550bfd2de484b98339758d110fdd, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: aa47fddc4ed5df546aa7836675c34f02, type: 2}
+    level: 0

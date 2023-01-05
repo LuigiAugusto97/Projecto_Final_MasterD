@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Pinguim MIni
+  m_EditorClassIdentifier: 
+  _name: Assault Pinguin
+  _uniqueIdentifier: Monster_39
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 3990434720710786085, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 6
+  type2: 7
+  maxHP: 539
+  maxMana: 0
+  strenght: 607
+  defence: 25
+  magic: 411
+  magicDef: 23
+  manaregen: 0
+  psnResist: 43
+  brnResist: 29
+  slpResist: -31
+  parResist: -40
+  frzResist: 85
+  confusionResist: 0
+  expYield: 220
+  moneyYield: 128
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 63db66166daaf8d4f97c64728a9cbf4e, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 179cb19948e1a7c418796b2d30d25a44, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 96a9a7e88b0790742aba2f881b4770e7, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: cd032110eab5792489995ded23cc3a8f, type: 2}
+    level: 0

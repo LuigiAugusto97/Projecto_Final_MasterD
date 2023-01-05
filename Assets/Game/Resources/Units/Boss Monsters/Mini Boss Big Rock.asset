@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Mini Boss Big Rock
+  m_EditorClassIdentifier: 
+  _name: The Wandering Rock
+  _uniqueIdentifier: Monster_99
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -359481538548226731, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 1
+  type1: 15
+  type2: 9
+  maxHP: 813
+  maxMana: 137
+  strenght: 303
+  defence: 141
+  magic: 345
+  magicDef: 148
+  manaregen: 25
+  psnResist: 74
+  brnResist: 73
+  slpResist: -14
+  parResist: -13
+  frzResist: 79
+  confusionResist: -5
+  expYield: 750
+  moneyYield: 600
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 01e90ab12dc436440971f27a560b2c6c, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 17beb5a68ca88524ca499e14ea8111de, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 8e151e36b3acb3340ba7ea8bce8c9acb, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f098b919a02d4e642a9aee87aad810a6, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 71330d405be8df34eb1559e7a54c2187, type: 2}
+    level: 0

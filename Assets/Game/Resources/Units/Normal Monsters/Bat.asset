@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Bat
+  m_EditorClassIdentifier: 
+  _name: Bat
+  _uniqueIdentifier: Monster_17
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -2869675963118524337, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 10
+  type2: 0
+  maxHP: 457
+  maxMana: 63
+  strenght: 448
+  defence: 42
+  magic: 448
+  magicDef: 46
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 125
+  moneyYield: 98
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 1a3156d2e8af8d6418a7087d969647d8, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 79c6feefe1cd06b49b0dc7d894a8a61a, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7ab0bf0c94cbced4f95dfbd7431a773f, type: 2}
+    level: 0

@@ -1,0 +1,2100 @@
+fileFormatVersion: 2
+guid: 051ba5ac009a85e4ea03b9adbde7882d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1035619285652815270
+    second: Kids Npc_1
+  - first:
+      213: -5396577399061886448
+    second: Kids Npc_2
+  - first:
+      213: -9164741008670777127
+    second: Kids Npc_3
+  - first:
+      213: 103281988265312720
+    second: Kids Npc_4
+  - first:
+      213: 917087198647224695
+    second: Kids Npc_5
+  - first:
+      213: 6324354049467657266
+    second: Kids Npc_6
+  - first:
+      213: -7846897034615079424
+    second: Kids Npc_7
+  - first:
+      213: 2510775418162281243
+    second: Kids Npc_8
+  - first:
+      213: 8956416117764365018
+    second: Kids Npc_9
+  - first:
+      213: -6258538993823622495
+    second: Kids Npc_10
+  - first:
+      213: 4309726749030262957
+    second: Kids Npc_11
+  - first:
+      213: 7229595886262323757
+    second: Kids Npc_12
+  - first:
+      213: 3660134983588088872
+    second: Kids Npc_13
+  - first:
+      213: -7134557233272912410
+    second: Kids Npc_14
+  - first:
+      213: 8896548537137654902
+    second: Kids Npc_15
+  - first:
+      213: 1835552167952130935
+    second: Kids Npc_16
+  - first:
+      213: -2572563905571975019
+    second: Kids Npc_18
+  - first:
+      213: 5138581872125421127
+    second: Kids Npc_19
+  - first:
+      213: 2581041285026926844
+    second: Kids Npc_20
+  - first:
+      213: 3649392461364667932
+    second: Kids Npc_21
+  - first:
+      213: -4186655125311460173
+    second: Kids Npc_23
+  - first:
+      213: -499822924797160681
+    second: Kids Npc_24
+  - first:
+      213: -3151074744022067206
+    second: Kids Npc_25
+  - first:
+      213: -4637689753696787987
+    second: Kids Npc_26
+  - first:
+      213: -2232175358244934795
+    second: Kids Npc_27
+  - first:
+      213: -3642402521585646608
+    second: Kids Npc_28
+  - first:
+      213: 283331951127455159
+    second: Kids Npc_29
+  - first:
+      213: 441360458968988892
+    second: Kids Npc_30
+  - first:
+      213: -6956724075256270507
+    second: Kids Npc_31
+  - first:
+      213: -8936341222162251225
+    second: Kids Npc_32
+  - first:
+      213: -1973656443060615626
+    second: Kids Npc_33
+  - first:
+      213: 8334056057653686278
+    second: Kids Npc_34
+  - first:
+      213: 7053449944883284855
+    second: Kids Npc_36
+  - first:
+      213: -34714052131190876
+    second: Kids Npc_37
+  - first:
+      213: 6547539017126010018
+    second: Kids Npc_38
+  - first:
+      213: 8184553338713688616
+    second: Kids Npc_39
+  - first:
+      213: -6420907746894938844
+    second: Kids Npc_40
+  - first:
+      213: 7359267952628383053
+    second: Kids Npc_41
+  - first:
+      213: 145791150795120576
+    second: Kids Npc_42
+  - first:
+      213: 7172385103615528377
+    second: Kids Npc_43
+  - first:
+      213: 3527151016021557641
+    second: Kids Npc_44
+  - first:
+      213: -4394024449648041932
+    second: Kids Npc_46
+  - first:
+      213: 236645822045097333
+    second: Kids Npc_47
+  - first:
+      213: 2316394280077077884
+    second: Kids Npc_48
+  - first:
+      213: -525573080327729493
+    second: Kids Npc_49
+  - first:
+      213: -8359967858653988036
+    second: Kids Npc_50
+  - first:
+      213: 7971903168695106652
+    second: Kids Npc_51
+  - first:
+      213: -4740046650865579830
+    second: Kids Npc_52
+  - first:
+      213: 8238060707077096288
+    second: Kids Npc_54
+  - first:
+      213: 1231537818849436187
+    second: Kids Npc_55
+  - first:
+      213: 57132111958738117
+    second: Kids Npc_56
+  - first:
+      213: -7421883652034618545
+    second: Kids Npc_57
+  - first:
+      213: 5818542068348311456
+    second: Kids Npc_59
+  - first:
+      213: 1645716893121617423
+    second: Kids Npc_60
+  - first:
+      213: -2395055009216990327
+    second: Kids Npc_61
+  - first:
+      213: -2691898738329346580
+    second: Kids Npc_62
+  - first:
+      213: -1020532539285093695
+    second: Kids Npc_63
+  - first:
+      213: 4619193338846221555
+    second: Kids Npc_64
+  - first:
+      213: -8709106737881285943
+    second: Kids Npc_65
+  - first:
+      213: 5355715724023789448
+    second: Kids Npc_66
+  - first:
+      213: 2715127240044445839
+    second: Kids Npc_73
+  - first:
+      213: -2893216163418118712
+    second: Kids Npc_74
+  - first:
+      213: -8484430893960018335
+    second: Kids Npc_75
+  - first:
+      213: -8163994276195285958
+    second: Kids Npc_76
+  - first:
+      213: 3420603074600229670
+    second: Kids Npc_77
+  - first:
+      213: -4515590248598921817
+    second: Kids Npc_78
+  - first:
+      213: 8565964877747426228
+    second: Kids Npc_79
+  - first:
+      213: 1849845722166945343
+    second: Kids Npc_80
+  - first:
+      213: -4477797523018098312
+    second: Kids Npc_85
+  - first:
+      213: 3343756209818156779
+    second: Kids Npc_86
+  - first:
+      213: -3897793654176479138
+    second: Kids Npc_87
+  - first:
+      213: -2907900350366281013
+    second: Kids Npc_88
+  - first:
+      213: 2198496337037748395
+    second: Kids Npc_89
+  - first:
+      213: -13501258006991136
+    second: Kids Npc_90
+  - first:
+      213: -5435772021017813445
+    second: Kids Npc_91
+  - first:
+      213: -3411161072384190688
+    second: Kids Npc_92
+  - first:
+      213: -2073239761720662871
+    second: Kids Npc_94
+  - first:
+      213: -5418649438036219921
+    second: Kids Npc_95
+  - first:
+      213: 351947987863794126
+    second: Kids Npc_96
+  - first:
+      213: 5909376512556856420
+    second: Kids Npc_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kids Npc_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 340
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad31ebd0424f5e00800000000000000
+      internalID: 1035619285652815270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 338
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac306a2718b15b0800000000000000
+      internalID: -5396577399061886448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 340
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d029b70c9c40d080800000000000000
+      internalID: -9164741008670777127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 338
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1004ecb6eee6100800000000000000
+      internalID: 103281988265312720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 340
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790d6fb2f52abc00800000000000000
+      internalID: 917087198647224695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 338
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca258008e94c750800000000000000
+      internalID: 6324354049467657266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 340
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb3beb8b83a1390800000000000000
+      internalID: -7846897034615079424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 338
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b785ea0f018d220800000000000000
+      internalID: 2510775418162281243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 340
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9de781059b4c70800000000000000
+      internalID: 8956416117764365018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 338
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa563cb1f33529a0800000000000000
+      internalID: -6258538993823622495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 340
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a2f2f4a93fcb30800000000000000
+      internalID: 4309726749030262957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 338
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8a4e872fa45460800000000000000
+      internalID: 7229595886262323757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 292
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8fb610696bc230800000000000000
+      internalID: 3660134983588088872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e503113ff5fcfc90800000000000000
+      internalID: -7134557233272912410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 292
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6c1332c3e67b70800000000000000
+      internalID: 8896548537137654902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7732c79b8f0397910800000000000000
+      internalID: 1835552167952130935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590146602ca6c4cd0800000000000000
+      internalID: -2572563905571975019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 292
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462c41ccf8ef4740800000000000000
+      internalID: 5138581872125421127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d5a0bf53b1d320800000000000000
+      internalID: 2581041285026926844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 292
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1621a9bb1f35a230800000000000000
+      internalID: 3649392461364667932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcedba685306e5c0800000000000000
+      internalID: -4186655125311460173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 292
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7135ed4b2b54019f0800000000000000
+      internalID: -499822924797160681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 292
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71cd527322544d0800000000000000
+      internalID: -3151074744022067206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 292
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12f649dbd93afb0800000000000000
+      internalID: -4637689753696787987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 244
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2e679658b501e0800000000000000
+      internalID: -2232175358244934795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f386e37436937dc0800000000000000
+      internalID: -3642402521585646608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_29
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 244
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5687c88e89ee300800000000000000
+      internalID: 283331951127455159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcffbebff6002600800000000000000
+      internalID: 441360458968988892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55131f5df40c47f90800000000000000
+      internalID: -6956724075256270507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 244
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722c655510dbbf380800000000000000
+      internalID: -8936341222162251225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63606b20ce92c94e0800000000000000
+      internalID: -1973656443060615626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_34
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f3a624d388a370800000000000000
+      internalID: 8334056057653686278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b44c5aa53e2e160800000000000000
+      internalID: 7053449944883284855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_37
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 244
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78106e0cba48ff0800000000000000
+      internalID: -34714052131190876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_38
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 244
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5ec4bb088dda50800000000000000
+      internalID: 6547539017126010018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_39
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 244
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a444fd5ef559170800000000000000
+      internalID: 8184553338713688616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42df5c27c6a54e6a0800000000000000
+      internalID: -6420907746894938844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db45b363f512660800000000000000
+      internalID: 7359267952628383053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 196
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd98a7744f50200800000000000000
+      internalID: 145791150795120576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 194
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd8e45304e698360800000000000000
+      internalID: 7172385103615528377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_44
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 196
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818f135925f2f030800000000000000
+      internalID: 3527151016021557641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 196
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e8582b0a4503c0800000000000000
+      internalID: -4394024449648041932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 196
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d04901f1cb84300800000000000000
+      internalID: 236645822045097333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dadbf235c752020800000000000000
+      internalID: 2316394280077077884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 194
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baece8b611ac4b8f0800000000000000
+      internalID: -525573080327729493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_50
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 194
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfe3b868d6bfb80800000000000000
+      internalID: -8359967858653988036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 194
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cf1e9e1b3e1ae60800000000000000
+      internalID: 7971903168695106652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_52
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 194
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac880645fa8f73eb0800000000000000
+      internalID: -4740046650865579830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_54
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630f63e098735270800000000000000
+      internalID: 8238060707077096288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12eafb0f1d471110800000000000000
+      internalID: 1231537818849436187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c481966a59fac000800000000000000
+      internalID: 57132111958738117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b923c242c200990800000000000000
+      internalID: -7421883652034618545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_59
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a75196ee2d9fb050800000000000000
+      internalID: 5818542068348311456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_60
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 146
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9f5f7bc2c6d610800000000000000
+      internalID: 1645716893121617423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_61
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f91e982e03ced0800000000000000
+      internalID: -2395055009216990327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_62
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 146
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9e8a1c5474aad0800000000000000
+      internalID: -2691898738329346580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_63
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24f22001756d1f0800000000000000
+      internalID: -1020532539285093695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 100
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f497ce3edbaa1040800000000000000
+      internalID: 4619193338846221555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caff919099032780800000000000000
+      internalID: -8709106737881285943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88779604313535a40800000000000000
+      internalID: 5355715724023789448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_73
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8006d6e6d11ea520800000000000000
+      internalID: 2715127240044445839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_74
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 100
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c56b017a3b39d7d0800000000000000
+      internalID: -2893216163418118712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c92ced0f314a80800000000000000
+      internalID: -8484430893960018335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_76
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 100
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34ce03e57aa3be80800000000000000
+      internalID: -8163994276195285958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_77
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 52
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd72b8f5c687f20800000000000000
+      internalID: 3420603074600229670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 52
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad1b01f7966551c0800000000000000
+      internalID: -4515590248598921817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 52
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39b900cab60e670800000000000000
+      internalID: 8565964877747426228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_80
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 52
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36690722e8fba910800000000000000
+      internalID: 1849845722166945343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_85
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 52
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879d16090eaabd1c0800000000000000
+      internalID: -4477797523018098312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_86
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 52
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb7bd8e88676e20800000000000000
+      internalID: 3343756209818156779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_87
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 52
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580a0ba25148e9c0800000000000000
+      internalID: -3897793654176479138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_88
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 52
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21f2eb90015a7d0800000000000000
+      internalID: -2907900350366281013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_89
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 4
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e12935c0a28e10800000000000000
+      internalID: 2198496337037748395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee8786da800dff0800000000000000
+      internalID: -13501258006991136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ed93795224094b0800000000000000
+      internalID: -5435772021017813445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02756e8e31f19a0d0800000000000000
+      internalID: -3411161072384190688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ac64db6f5a33e0800000000000000
+      internalID: -2073239761720662871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_95
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe72b7b9b071dc4b0800000000000000
+      internalID: -5418649438036219921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_96
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 4
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1f80c84de52e400800000000000000
+      internalID: 351947987863794126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kids Npc_97
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464fcf201a2520250800000000000000
+      internalID: 5909376512556856420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: HUMAN BOSS GUN MAN
+  m_EditorClassIdentifier: 
+  _name: Rob, The Hunter
+  _uniqueIdentifier: bad guy_cold
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: 21300000, guid: 4052aff423f5a544cbc2031b854e4354, type: 3}
+  isBig: 1
+  type1: 1
+  type2: 14
+  maxHP: 610
+  maxMana: 137
+  strenght: 873
+  defence: 33
+  magic: 713
+  magicDef: 50
+  manaregen: 25
+  psnResist: -20
+  brnResist: -20
+  slpResist: 23
+  parResist: 0
+  frzResist: 20
+  confusionResist: 37
+  expYield: 690
+  moneyYield: 500
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 33579e89c2352b04b87a39da1be2a2fb, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 47364bcb2f2a6404abecac5c9dd955ee, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4ab2c95a6073c4442862c28907744a78, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4b7c9060b00deb04fa8aeacfdafc9a40, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4f1acca28bbf19447ac70f3260231712, type: 2}
+    level: 0

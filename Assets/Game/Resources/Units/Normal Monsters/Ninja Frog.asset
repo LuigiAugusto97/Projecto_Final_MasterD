@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Ninja Frog
+  m_EditorClassIdentifier: 
+  _name: Ninja Frog
+  _uniqueIdentifier: Monster_28
+  isboss: 0
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -7470663463447931316, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 0
+  type1: 14
+  type2: 7
+  maxHP: 388
+  maxMana: 20
+  strenght: 890
+  defence: 10
+  magic: 433
+  magicDef: 7
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 310
+  moneyYield: 167
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 4b7c9060b00deb04fa8aeacfdafc9a40, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 77b0773bae8dba24fbb781df738fdf69, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 86f6b10dad7bab3458e0c29ac20774bb, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 4ab2c95a6073c4442862c28907744a78, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 065e7db425b22a74893a1e933d7048ec, type: 2}
+    level: 0

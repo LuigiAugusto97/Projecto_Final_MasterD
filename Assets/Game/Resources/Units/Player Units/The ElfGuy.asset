@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: The ElfGuy
+  m_EditorClassIdentifier: 
+  _name: Ilition
+  _uniqueIdentifier: playerChar3
+  isboss: 0
+  alignment: 0
+  description: 
+  unit_sprite: {fileID: 21300000, guid: a0b52a66a7d47cd43bf0649eaff05997, type: 3}
+  isBig: 0
+  type1: 1
+  type2: 4
+  maxHP: 508
+  maxMana: 540
+  strenght: 981
+  defence: 29
+  magic: 714
+  magicDef: 54
+  manaregen: 17
+  psnResist: 0
+  brnResist: 0
+  slpResist: 26
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 0
+  moneyYield: 0
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 1e99f0b2242dfad44a6a09a4bd618e73, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 77b0773bae8dba24fbb781df738fdf69, type: 2}
+    level: 5
+  - attmovBase: {fileID: 11400000, guid: 85a1b4b15d6ac6d4cb4685b028ea1345, type: 2}
+    level: 10
+  - attmovBase: {fileID: 11400000, guid: 15ae51afdb604ec409a7afa03e760268, type: 2}
+    level: 13
+  - attmovBase: {fileID: 11400000, guid: 74403ff2e35428e45a38f2d966172bff, type: 2}
+    level: 17
+  - attmovBase: {fileID: 11400000, guid: ee38763899be63c4a8f6b319854d1827, type: 2}
+    level: 20
+  - attmovBase: {fileID: 11400000, guid: 5c3e5dca4f6fbcd4b9dac193b9906bd6, type: 2}
+    level: 23
+  - attmovBase: {fileID: 11400000, guid: 3286eff037bdb3b4da7eae0724c29db0, type: 2}
+    level: 28
+  - attmovBase: {fileID: 11400000, guid: 0158b62fbd14fbc44a2cbba8e955c003, type: 2}
+    level: 25
+  - attmovBase: {fileID: 11400000, guid: cbb502b1fac9bf948905aee0deb06475, type: 2}
+    level: 31
+  - attmovBase: {fileID: 11400000, guid: 875a28fdd4f96ce489087a7b5d3e5dde, type: 2}
+    level: 36
+  - attmovBase: {fileID: 11400000, guid: 15143e05df095934b83410ece2f6598d, type: 2}
+    level: 11
+  - attmovBase: {fileID: 11400000, guid: 71330d405be8df34eb1559e7a54c2187, type: 2}
+    level: 42
+  - attmovBase: {fileID: 11400000, guid: 5928c863ad60d1e4ba81644406c0fa1a, type: 2}
+    level: 46

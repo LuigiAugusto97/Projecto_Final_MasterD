@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: Mini Boss Colossal Sand Worm
+  m_EditorClassIdentifier: 
+  _name: Colossal Sand Worm
+  _uniqueIdentifier: MOnster_26
+  isboss: 1
+  alignment: 1
+  description: 
+  unit_sprite: {fileID: -4409354720557203851, guid: 59dd9547406f352429b42863e83e834a, type: 3}
+  isBig: 1
+  type1: 9
+  type2: 8
+  maxHP: 876
+  maxMana: 73
+  strenght: 384
+  defence: 34
+  magic: 653
+  magicDef: 132
+  manaregen: 45
+  psnResist: 0
+  brnResist: 57
+  slpResist: 30
+  parResist: 0
+  frzResist: -21
+  confusionResist: 31
+  expYield: 635
+  moneyYield: 400
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 823f59380618bc34bb6c7e611da378bf, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 9af39be1a5f20cc479c2dc2ee8fe6075, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: f5a1129c7fbaff14184d49940fb96520, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 7cdd7a6881d6a054d8b60c0f3f09e91f, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 64287c02f5eb2ca448b6b30c10f5a544, type: 2}
+    level: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 060a978af4c808940907943d5cc13047, type: 3}
+  m_Name: ZeroEnemy
+  m_EditorClassIdentifier: 
+  _name: Zero
+  _uniqueIdentifier: zeroenemy
+  alignment: 1
+  description: a shell for enemys
+  unit_sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  type1: 0
+  type2: 0
+  maxHP: 0
+  maxMana: 0
+  strenght: 0
+  defence: 0
+  magic: 0
+  magicDef: 0
+  manaregen: 0
+  psnResist: 0
+  brnResist: 0
+  slpResist: 0
+  parResist: 0
+  frzResist: 0
+  confusionResist: 0
+  expYield: 0
+  levelAttMove_list:
+  - attmovBase: {fileID: 11400000, guid: 156277f0a303c9f42a69024581b7aa7b, type: 2}
+    level: 0
+  - attmovBase: {fileID: 11400000, guid: 5e59d94360bbbae46b4d7b781f13be27, type: 2}
+    level: 0
